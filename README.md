@@ -1,3 +1,1 @@
 # Bilingual
-
-Bilingual web-app

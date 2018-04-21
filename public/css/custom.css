@@ -1,0 +1,28 @@
+/*--------------------------------------------------------------
+
+  Template Name: Subash Ecommerce Responsive Bootstrap Template
+  Description: This is html5 template
+  Author: codecarnival
+  Version: 1.0
+  Design and Developed by: codecarnival
+
+Note: This is the file where you can add your custom styles to change the look of the theme. But don't modify "style.css" file.
+
+---------------------------------------------------------------*/
+
+/* ----------------------------------------------------
+	You can put your custom css code here:
+-------------------------------------------------------*/
+.mt-10{margin-top: 10px;}
+.mt-20{margin-top: 20px;}
+.mt-30{margin-top: 30px;}
+.mt-40{margin-top: 30px;}
+.carousel-caption{
+  text-align: left;
+  bottom: 25%;
+  right: 40%;
+  left: 10%;
+}
+.carousel-caption h3, .carousel-caption p{
+      color: #016fc0;
+}
